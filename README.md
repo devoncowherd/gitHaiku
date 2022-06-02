@@ -1,2 +1,0 @@
-# gitHaiku
--git exercise
