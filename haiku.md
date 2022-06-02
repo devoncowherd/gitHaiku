@@ -1,6 +1,6 @@
 Hello World!
 Beautiful Morning
-My Coffee is Scoulding Hot
+My Coffee is Scolding Hot
 I will drink it later
 
 
