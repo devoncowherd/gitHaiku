@@ -14,6 +14,4 @@ to an ant.
 
 
 
-
-
 Goodbye World!
